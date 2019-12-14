@@ -4,16 +4,14 @@ This is a practice for HPC-PAC 2018 SOBI problem.
 
 # Procedure record
 
-- Sep 25
+- [x] Initialize repository, add problem discription.
 
-  Initialize repository, add problem discription.
+- [x] Figure out the file structure.
 
-- Oct 14
-
-  Figure out the file structure.
-
-  Prepare to build the interface between C++ & MATLAB.
+- [x] Prepare to build the interface between C++ & MATLAB.
 
   [Matlab call cpp library](https://www.mathworks.com/help/matlab/call-cpp-library-functions.html)
 
   [Cpp call Matlab function](https://www.mathworks.com/help/matlab/Cpp-api.html)
+
+- [x] Build Framework for C & Matlab. Finish building `Makefile`.
